@@ -1,2 +1,8 @@
 source 'https://rubygems.org'
 gem 'calabash-cucumber'
+gem 'rspec-expectations'
+gem 'pry-byebug'
+gem 'timeout'
+gem 'activesupport'
+gem 'recursive-open-struct'
+gem 'httparty'
